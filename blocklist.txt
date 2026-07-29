@@ -1,0 +1,6 @@
+! Block games
+||letsplayhearts.com^$important
+||minesweeper.online^$important
+
+! Jul 21, 2026 https://www.google.com blocking google games
+www.google.com##.AHf7fe.cgj45
