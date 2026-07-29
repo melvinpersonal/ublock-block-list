@@ -1,6 +1,39 @@
-! Block games
+! --- MAIN WEB CASUAL GAME PLUGINS / HUBS ---
 ||letsplayhearts.com^$important
 ||minesweeper.online^$important
+||poki.com^$important
+||crazygames.com^$important
+||coolmathgames.com^$important
+||kongregate.com^$important
+||armorgames.com^$important
+||newgrounds.com^$important
+||miniclip.com^$important
+||itch.io/games/platform-web^$important
+||iogames.space^$important
+||y8.com^$important
 
-! Jul 21, 2026 https://www.google.com blocking google games
-www.google.com##.AHf7fe.cgj45
+! --- POPULAR ADDICTIVE BROWSER GAMES ---
+||slither.io^$important
+||agar.io^$important
+||diep.io^$important
+||krunker.io^$important
+||cookieclicker.ee^$important
+||orteil.dashnet.org/cookieclicker^$important
+||tetris.com^$important
+||://jezevec10.com^$important
+||chatrep.org^$important
+||chess.com^$important
+||lichess.org^$important
+||geoguessr.com^$important
+||wordle.com^$important
+||://nytimes.com^$important
+||neopets.com^$important
+||universalpaperclips.com^$important
+||://decisionproblem.com^$important
+
+! --- MAJOR CLOUD / STREAMING / DOWNLOAD PLATFORMS ---
+||roblox.com^$important
+||twitch.tv^$important
+||steamcommunity.com^$important
+||://steampowered.com^$important
+||epicgames.com^$important
