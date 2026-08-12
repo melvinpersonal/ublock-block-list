@@ -11,6 +11,7 @@
 ||itch.io/games/platform-web^$important
 ||iogames.space^$important
 ||y8.com^$important
+||minesweeperonline.com^$important
 
 ! --- POPULAR ADDICTIVE BROWSER GAMES ---
 ||slither.io^$important
