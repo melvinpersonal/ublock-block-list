@@ -1,3 +1,4 @@
+! Expires: 6 hours
 ! --- MAIN WEB CASUAL GAME PLUGINS / HUBS ---
 ||letsplayhearts.com^$important
 ||minesweeper.online^$important
@@ -8,7 +9,7 @@
 ||armorgames.com^$important
 ||newgrounds.com^$important
 ||miniclip.com^$important
-||itch.io/games/platform-web^$important
+||itch.io/games/platform-web$important
 ||iogames.space^$important
 ||y8.com^$important
 ||minesweeperonline.com^$important
@@ -21,24 +22,23 @@
 ||cookieclicker.ee^$important
 ||orteil.dashnet.org/cookieclicker^$important
 ||tetris.com^$important
-||://jezevec10.com^$important
+||jezevec10.com^$important
 ||chatrep.org^$important
 ||chess.com^$important
 ||lichess.org^$important
 ||geoguessr.com^$important
 ||wordle.com^$important
-||://nytimes.com^$important
+||nytimes.com^$important
 ||neopets.com^$important
 ||universalpaperclips.com^$important
-||://decisionproblem.com^$important
+||decisionproblem.com^$important
 
 ! --- MAJOR CLOUD / STREAMING / DOWNLOAD PLATFORMS ---
 ||roblox.com^$important
 ||twitch.tv^$important
 ||steamcommunity.com^$important
-||://steampowered.com^$important
+||steampowered.com^$important
 ||epicgames.com^$important
-
 
 ! --- GOOGLE GAMES ----
 www.google.com##.AHf7fe.N13edf.cgj45
