@@ -41,5 +41,6 @@
 ||epicgames.com^$important
 
 ! --- GOOGLE GAMES ----
+||www.google.com/fbx*$document
 www.google.com##.AHf7fe.N13edf.cgj45
 www.google.com##.AHf7fe.cgj45
