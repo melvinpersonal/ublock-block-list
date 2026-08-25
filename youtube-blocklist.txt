@@ -1,1 +1,7 @@
-
+! Expires: 6 hours
+! --- Youtube block ---
+||youtube.com^
+||www.youtube.com^
+||m.youtube.com^
+||youtu.be^
+||youtube-nocookie.com^
