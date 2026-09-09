@@ -13,6 +13,7 @@
 ||iogames.space^$important
 ||y8.com^$important
 ||minesweeperonline.com^$important
+||cardgames.io^$important
 
 ! --- POPULAR ADDICTIVE BROWSER GAMES ---
 ||slither.io^$important
