@@ -14,6 +14,7 @@
 ||y8.com^$important
 ||minesweeperonline.com^$important
 ||cardgames.io^$important
+||sudoku.com^$important
 
 ! --- POPULAR ADDICTIVE BROWSER GAMES ---
 ||slither.io^$important
